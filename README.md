@@ -1,4 +1,4 @@
-# 🎮 Jeu du Morpion en Python
+# 🎮 Jeu du Morpion en Python( Jeu_Morpion_Python.py)
 
 ## 📌 Description
 Ce projet est une implémentation du jeu du Morpion (Tic-Tac-Toe) en Python, jouable en ligne de commande.  
@@ -29,4 +29,4 @@ Il met en pratique :
 Cloner le projet puis exécuter :
 
 ```bash
-python morpion.py
+python Jeu_Morpion_Python.py
